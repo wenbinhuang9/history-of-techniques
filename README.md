@@ -5,3 +5,5 @@
 
 大前端的技术原理和变迁史 https://juejin.im/post/5b5adc9b6fb9a04f9244555d
 
+# 云计算
+云计算历程和前途 https://cloud.tencent.com/developer/article/1079533
