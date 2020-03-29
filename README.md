@@ -9,3 +9,7 @@
 云计算历程和前途 https://cloud.tencent.com/developer/article/1079533
 
 激荡十年，云计算的过去，现在和未来 https://m.huxiu.com/article/295847.html
+
+# 浏览器
+
+深入浅出浏览器渲染原理 https://blog.fundebug.com/2019/01/03/understand-browser-rendering/
